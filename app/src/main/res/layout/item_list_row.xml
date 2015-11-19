@@ -15,8 +15,6 @@
     <EditText
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:maxLines="5"
-            android:hint="text2"
-            android:isScrollContainer="true"/>
+            android:hint="text2"/>
 
 </LinearLayout>
